@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* styles.css */
+
+/* styles.css */
+
+
+.height{
+  height: 32.3rem;
+}
+
+
+.search-btn{
+  top: 128px;
+  right: 10rem;
+}
+
+.smSize{
+  font-size: 1rem;
+  font-weight: 800;
+}
+
+.trash-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.trash-icon {
+  color: #ff3b30; /* Set the iOS red color or a similar shade of red */
+}
+
+.item-height{
+  height: 87.8px;
+  
+}
+
+.item-width{
+  width: 7.5rem;
+  font-size: 1.240rem;
+  line-height: 1.8rem ;
+  font-weight: 800;
+}
